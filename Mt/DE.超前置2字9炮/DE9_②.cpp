@@ -1,5 +1,4 @@
-/*【【DE】超前置小②炮】 https://www.bilibili.com/video/BV1ERr6YXEFU
-
+/*
 ap,i,i[n1],ip,ia,ip,i[n2],ia,i[n4]-[N]
 ip-aps/pd,ijp-ppd,ip[n5]-ppd,ip,iaj,   ip,  i[n1], in3,  ia, in2-[N]    n4 n2 n3  n1 n4
 n5 n1 n2 n

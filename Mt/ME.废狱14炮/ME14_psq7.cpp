@@ -1,4 +1,3 @@
-// 【【ME】废狱】 https://www.bilibili.com/video/BV1U1421d7iK/
 #include "avz.h"
 #include "avz_spawn_utils.h"
 #include "SimpleAvZ/lib.h"
